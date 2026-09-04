@@ -1,0 +1,6 @@
+{
+  "name": "Umrah Companion",
+  "description": "Modern digital Umrah guide and companion with interactive Tawaf & Sa'i counters, comprehensive prayer library, niat & talbiyah, and 9-day journey tracker.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

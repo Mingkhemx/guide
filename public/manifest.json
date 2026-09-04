@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Umrah Companion",
+  "short_name": "Umrah Guide",
+  "description": "Modern digital Umrah guide and companion with interactive Tawaf & Sa'i counters, prayer library, and 9-day journey tracker.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#004435",
+  "background_color": "#f0fcf5",
+  "categories": ["lifestyle", "travel", "books"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
